@@ -1,5 +1,5 @@
 # tableau-citibike
-Insights for CitiBike data from X to Y on ridership in a Tableau Dashboard and Story: [CitiBike Tableau Insights]([https://public.tableau.com/views/CitiBikeWorkbook_17280053176540/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/CitiBikeWorkbook_17280053176540/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+Insights for CitiBike data from X to Y on ridership in a Tableau Dashboard and Story: [CitiBike Tableau Insights](https://public.tableau.com/views/CitiBikeWorkbook_17280053176540/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dashboard
 Overview of riders, popular routes and times to ride.
